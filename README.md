@@ -1,10 +1,10 @@
 # Gaurav Jain
 
-Principal — Jain Atelier
+Principal - Jain Atelier
 
 I build and advise on software systems, automation workflows, and enterprise-grade digital products.
 
-My work sits at the intersection of strategy, implementation, and operational execution — translating business requirements into systems that can be deployed, maintained, and scaled.
+My work sits at the intersection of strategy, implementation, and operational execution - translating business requirements into systems that can be deployed, maintained, and scaled.
 
 ---
 
